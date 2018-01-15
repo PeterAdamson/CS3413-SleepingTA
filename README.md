@@ -1,0 +1,2 @@
+# CS3413-SleepingTA
+A mulithreaded C program that solves the sleeping teacher assistant problem where students are going to a teacher assistant for help.  The TA is sleeping when not busy, and busy for a random amount of time when helping students.  If a student arrives and the TA is sleeping, they must wake him up.  If a student arrives and the TA is busy, they wait in a queue.  If a student arrives and the queue is full, they leave.
